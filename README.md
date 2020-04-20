@@ -1,2 +1,2 @@
 # Projet-stage
-ajouté calcul direct
+modif mineure 20-04
