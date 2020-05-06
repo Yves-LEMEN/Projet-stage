@@ -1,2 +1,2 @@
 # Projet-stage
-modif mineure 20-04
+ajouté un tracé de l'énergie
