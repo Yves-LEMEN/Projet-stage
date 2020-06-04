@@ -1,3 +1,2 @@
+calcul des probabilités de transition 1° émission
 
-Correction vitesse initiale et erreur dans formule "leapfrog"
-dernière mise à jour 
